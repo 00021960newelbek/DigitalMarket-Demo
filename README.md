@@ -1,4 +1,3 @@
-@@ -0,0 +1,91 @@
 # DigitalMarket-Demo
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
